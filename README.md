@@ -37,4 +37,13 @@ The most important thing to figuring out the new mechanics is to **look at the a
 
 ## Just Enough Items!
 ### A way to see every new item and block, as well as how to obtain them and their descriptions!
-### [image7](https://i.postimg.cc/xdHhsJpH/image.png)
+### ![image7](https://i.postimg.cc/xdHhsJpH/image.png)
+### Keybinds
+#### From the inventory
+- **Show Recipes** : Hover over item + R
+- **Show Uses** : Hover over item + U
+- **Toggle Item List Overlay** : Control + O
+#### From the item list
+- **Show Recipes** : Click Item or type R
+- **Show Uses** : Right-Click Item or type U
+- **Next/Previous page** : Scroll Wheel
