@@ -30,6 +30,6 @@ The most important thing to figuring out the new mechanics is to **look at the a
 
 ## Immersive Armors!
 ### A bunch of new recipes for armors with unique abilities
-### ![image5](https://media.forgecdn.net/attachments/433/26/banner.jpg)
-### ![image6](https://media.forgecdn.net/attachments/456/40/items.png)
+### ![image5](https://i.postimg.cc/YqbX8fpT/image.png)
+### ![image6](https://i.postimg.cc/8kwBVpq6/image.png)
 - Check recipes to see how to make them
