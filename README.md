@@ -9,9 +9,7 @@ The most important thing to figuring out the new mechanics is to **look at the a
 - [Immersive Armors](#-immersive-armors)
 - [JEI](#-just-enough-items)
 - [Carry On](#-carry-on)
-
-## More self explanatory mods
-- [Connectible Chains](#-chains)
+- [Self Explanatory](#-self-explanatory)
 
 ## 🗣 Voice Chat Mod!
 ### Easy proximity chat!
@@ -65,8 +63,7 @@ The most important thing to figuring out the new mechanics is to **look at the a
 ### ![image8](https://github.com/EGirlEnthusiast/next-steps/blob/main/carryondemo2.gif)
 ### ![image9](https://github.com/EGirlEnthusiast/next-steps/blob/main/PJ4Q7tp.gif)
 
-##
-##
-##
-## Chains!
+## 🫵 Self Explanatory
+### Chains can be connected to fences
 ### ![image10](https://raw.githubusercontent.com/legoatoom/ConnectibleChains/9c61b5c2fbe298f6dc01db78fd62d47bf363a673/src/main/resources/assets/images/2022-01-14_22.03.12.png)
+### ![image11](https://media.forgecdn.net/attachments/362/828/2021-05-11_11.png)
