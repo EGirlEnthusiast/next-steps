@@ -9,7 +9,7 @@ The most important thing to figuring out the new mechanics is to **look at the a
 - [Immersive Armors](#-immersive-armors)
 - [JEI](#-just-enough-items)
 - [Carry On](#-carry-on)
-- [Self Explanatory](#-self-explanatory)
+- [Self Explanatory Section](#-self-explanatory)
 
 ## 🗣 Voice Chat Mod!
 ### Easy proximity chat!
@@ -66,4 +66,12 @@ The most important thing to figuring out the new mechanics is to **look at the a
 ## 🫵 Self Explanatory
 ### Chains can be connected to fences
 ### ![image10](https://raw.githubusercontent.com/legoatoom/ConnectibleChains/9c61b5c2fbe298f6dc01db78fd62d47bf363a673/src/main/resources/assets/images/2022-01-14_22.03.12.png)
+### Fences now connect diagonally
 ### ![image11](https://i.postimg.cc/mkRK0L1D/image.png)
+### Furniture
+### ![image12](https://i.postimg.cc/8kty1Bqw/image.png)
+### New mobs
+### New structures
+### New Doors and Windows
+### Minimap
+### Special items with abilities
