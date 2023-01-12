@@ -57,7 +57,7 @@ The most important thing to figuring out the new mechanics is to **look at the a
 - **Show Uses** : Right-Click Item or type U
 - **Next/Previous page** : Scroll Wheel
 
-## 🎁Carry On!
+## 🎁 Carry On!
 ### Ever find it weird that you can carry shulkers full of iron but not pick up a chest? Allows to pick up entities and item containers while keeping the items inside!
 ### ![image8](https://github.com/EGirlEnthusiast/next-steps/blob/main/carryondemo2.gif)
 ### ![image9](https://github.com/EGirlEnthusiast/next-steps/blob/main/PJ4Q7tp.gif)
