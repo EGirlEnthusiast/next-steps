@@ -58,6 +58,17 @@ The most important thing to figuring out the new mechanics is to **look at the a
 - **Show Uses** : Right-Click Item or type U
 - **Next/Previous page** : Scroll Wheel
 
+## Inventory Tweaks!
+### Allows for bigger inventories, but its gotta be earned!
+### ![image13](https://i.postimg.cc/6QVJWbJT/image.png)
+#### Tool Belt
+- Instead of taking space in the Hotbar, tools are now stored in their own place. When you mine a block, a correct tool gets passively applied from the said Toolbelt
+- Mending will mend tools in the Toolbelt before going into player's XP bar
+- Axe will be used as a melee weapon in the sword slot is empty
+- Hoe Toolbelt slot accepts shears. Sword Toolbelt slot accepts Trident.
+#### Deep Pockets Enchant
+- Each level of this enchantment adds an additional row to your inventory, up to 3 at max level. In addition, the first level adds 4 extra slots to the Utility Belt (from 4 to 8)
+
 ## 🎁 Carry On!
 ### Ever find it weird that you can carry shulkers full of iron but not pick up a chest? Allows to pick up entities and item containers while keeping the items inside!
 ### ![image8](https://github.com/EGirlEnthusiast/next-steps/blob/main/carryondemo2.gif)
