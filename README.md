@@ -1,6 +1,6 @@
 ## **Basic Mod Usage Steps**
 The most important thing to figuring out the new mechanics is to **look at the advancements screen**
-- Press **l** by default to open it - This is how to make progress with create, but it might take a bit to show up in the menu
+- Press **L** by default to open it - This is how to make progress with create, but it might take a bit to show up in the menu
 
 ## Mods
 - [Voice Chat Mod](#-voice-chat-mod)
