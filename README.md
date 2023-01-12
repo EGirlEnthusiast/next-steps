@@ -2,7 +2,7 @@
 The most important thing to figuring out the new mechanics is to **look at the advancements screen**
 
 ## Mods
-- [Voic Chat Mod](#-voice-chat-mod)
+- [Voice Chat Mod](#-voice-chat-mod)
 - [Create Mod](#-create)
 - [Immersive Portals](#-immersive-portals)
 - [Immersive Armors](#-immersive-armors)
