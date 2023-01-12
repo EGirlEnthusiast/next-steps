@@ -37,4 +37,4 @@ The most important thing to figuring out the new mechanics is to **look at the a
 
 ## Just Enough Items!
 ### A way to see every new item and block, as well as how to obtain them and their descriptions!
-### [image7](https://media.forgecdn.net/attachments/31/417/thzzdin.png)
+### [image7](https://i.postimg.cc/xdHhsJpH/image.png)
