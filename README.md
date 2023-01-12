@@ -8,6 +8,7 @@ The most important thing to figuring out the new mechanics is to **look at the a
 - [Immersive Portals](#-immersive-portals)
 - [Immersive Armors](#-immersive-armors)
 - [JEI](#-just-enough-items)
+- [Carry On](#-carry-on)
 
 ## 🗣 Voice Chat Mod!
 ### Easy proximity chat!
@@ -55,3 +56,6 @@ The most important thing to figuring out the new mechanics is to **look at the a
 - **Show Recipes** : Click Item or type R
 - **Show Uses** : Right-Click Item or type U
 - **Next/Previous page** : Scroll Wheel
+
+## 🎁Carry On!
+### Allows to pick up entities and item containers while keeping the items inside!
