@@ -15,4 +15,4 @@ yuhhh
 - **h** : This button hides all icons related to the voice chat
 ### ![image2](https://i.imgur.com/TMyfSYU.png)
 ## Create!
-### ![image3](https://i.postimg.cc/ZqzM2Ydd/optimized.gif)
+### [![optimized.gif](https://i.postimg.cc/ZqzM2Ydd/optimized.gif)](https://postimg.cc/JsKxBLKr)
