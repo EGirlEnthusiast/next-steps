@@ -1,5 +1,5 @@
 ## **Basic Mod Usage Steps**
-yuhhh
+The most important thing to figuring out the new mechanics is to **look at the advancements screen**
 ## Voice Chat Mod!
 ### Heres what the main interface looks like
 ### ![image1](https://i.imgur.com/TCCHTl8.png)
@@ -15,4 +15,5 @@ yuhhh
 - **h** : This button hides all icons related to the voice chat
 ### ![image2](https://i.imgur.com/TMyfSYU.png)
 ## Create!
+### Just a bunch of new ways to farm and build with moving blocks!
 ### ![optimized.gif](https://github.com/EGirlEnthusiast/next-steps/blob/main/optimized.gif)
