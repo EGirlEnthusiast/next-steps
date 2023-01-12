@@ -8,6 +8,7 @@ The most important thing to figuring out the new mechanics is to **look at the a
 - [Immersive Portals](#-immersive-portals)
 - [Immersive Armors](#-immersive-armors)
 - [JEI](#-just-enough-items)
+- [Inventory Changes](#-inventory-tweaks)
 - [Carry On](#-carry-on)
 - [Self Explanatory Section](#-self-explanatory)
 
@@ -58,7 +59,7 @@ The most important thing to figuring out the new mechanics is to **look at the a
 - **Show Uses** : Right-Click Item or type U
 - **Next/Previous page** : Scroll Wheel
 
-## Inventory Tweaks!
+## 🧍 Inventory Tweaks!
 ### Allows for bigger inventories, but its gotta be earned!
 ### ![image13](https://i.postimg.cc/6QVJWbJT/image.png)
 #### Tool Belt
