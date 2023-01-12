@@ -1,6 +1,13 @@
 ## **Basic Mod Usage Steps**
 The most important thing to figuring out the new mechanics is to **look at the advancements screen**
 
+## Mods
+- [Voic Chat Mod](#-voice-chat-mod)
+- [Create Mod](#-create)
+- [Immersive Portals](#-immersive-portals)
+- [Immersive Armors](#-immersive-armors)
+- [JEI](#-just-enough-items)
+
 ## Voice Chat Mod!
 ### Easy proximity chat!
 ### Heres what the main interface looks like
