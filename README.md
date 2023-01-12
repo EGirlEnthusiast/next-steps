@@ -87,3 +87,6 @@ The most important thing to figuring out the new mechanics is to **look at the a
 ### New Doors and Windows
 ### Minimap
 ### Special items with abilities
+### Beacon Overhaul
+### Greater tool leveling with a tool leveling table
+### New enchants and curses
