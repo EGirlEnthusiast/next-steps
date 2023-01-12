@@ -8,7 +8,7 @@ The most important thing to figuring out the new mechanics is to **look at the a
 - [Immersive Armors](#-immersive-armors)
 - [JEI](#-just-enough-items)
 
-## Voice Chat Mod!
+## 🪄 Voice Chat Mod!
 ### Easy proximity chat!
 ### Heres what the main interface looks like
 ### ![image1](https://i.imgur.com/TCCHTl8.png)
@@ -24,11 +24,11 @@ The most important thing to figuring out the new mechanics is to **look at the a
 - **h** : This button hides all icons related to the voice chat
 ### ![image2](https://i.imgur.com/TMyfSYU.png)
 
-## Create!
+## 🪄 Create!
 ### Just a bunch of new ways to farm and build with moving blocks!
 ### ![optimized.gif](https://github.com/EGirlEnthusiast/next-steps/blob/main/optimized.gif)
 
-## Immersive Portals!
+## 🪄 Immersive Portals!
 ### Lets portals exist that seamlessly connect the overworld and nether, as well as the end!
 ### ![image3](https://i.loli.net/2021/11/20/oRJmMSTIWCEprD3.png)
 - Portals can be horizontal
@@ -36,13 +36,13 @@ The most important thing to figuring out the new mechanics is to **look at the a
 - Portals can be smaller than usual
 ### ![image4](https://i.loli.net/2021/11/20/QrFmWA3lOjk7f2N.png)
 
-## Immersive Armors!
+## 🪄 Immersive Armors!
 ### A bunch of new recipes for armors with unique abilities
 ### ![image5](https://i.postimg.cc/YqbX8fpT/image.png)
 ### ![image6](https://i.postimg.cc/8kwBVpq6/image.png)
 - Check recipes to see how to make them
 
-## Just Enough Items!
+## 🪄 Just Enough Items!
 ### A way to see every new item and block, as well as how to obtain them and their descriptions!
 ### ![image7](https://i.postimg.cc/xdHhsJpH/image.png)
 ### Keybinds
