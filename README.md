@@ -66,4 +66,4 @@ The most important thing to figuring out the new mechanics is to **look at the a
 ## 🫵 Self Explanatory
 ### Chains can be connected to fences
 ### ![image10](https://raw.githubusercontent.com/legoatoom/ConnectibleChains/9c61b5c2fbe298f6dc01db78fd62d47bf363a673/src/main/resources/assets/images/2022-01-14_22.03.12.png)
-### ![image11](https://media.forgecdn.net/attachments/362/828/2021-05-11_11.png)
+### ![image11](https://i.postimg.cc/mkRK0L1D/image.png)
