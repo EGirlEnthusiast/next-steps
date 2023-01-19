@@ -18,7 +18,7 @@ The most important thing to figuring out the new mechanics is to **look at the a
 ### ![image1](https://i.imgur.com/TCCHTl8.png)
 #### The default key to access this is **v**, but this can be changed in controls settings
 - From here the settings button is most important
-- Group chats are disabled on this server so don't worry about that
+- Group chats let you talk to people no matter proximity, but you can still be heard in game
 - You wont need to access this menu unless changing settings
 ### Keybinds
 #### All of these can be changed in settings
